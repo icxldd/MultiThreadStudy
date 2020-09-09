@@ -1,0 +1,15 @@
+D:\ICXL\ThreadSample\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.exe
+D:\ICXL\ThreadSample\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.deps.json
+D:\ICXL\ThreadSample\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.runtimeconfig.json
+D:\ICXL\ThreadSample\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.runtimeconfig.dev.json
+D:\ICXL\ThreadSample\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.dll
+D:\ICXL\ThreadSample\ThreadSample\bin\Debug\netcoreapp3.1\ThreadSample.pdb
+D:\ICXL\ThreadSample\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.csprojAssemblyReference.cache
+D:\ICXL\ThreadSample\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.Form1.resources
+D:\ICXL\ThreadSample\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.csproj.GenerateResource.cache
+D:\ICXL\ThreadSample\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.AssemblyInfoInputs.cache
+D:\ICXL\ThreadSample\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.AssemblyInfo.cs
+D:\ICXL\ThreadSample\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.csproj.CoreCompileInputs.cache
+D:\ICXL\ThreadSample\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.dll
+D:\ICXL\ThreadSample\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.pdb
+D:\ICXL\ThreadSample\ThreadSample\obj\Debug\netcoreapp3.1\ThreadSample.genruntimeconfig.cache
